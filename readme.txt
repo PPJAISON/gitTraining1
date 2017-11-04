@@ -12,4 +12,6 @@ now this change done in ubuntu red box
 4th line from ubuntu red box at 18:30
 5th line from windows black box at 18:35
 6th line from windows black box at 18:35
-4th line from ubuntu red box at 18:36
+7th line from ubuntu red box at 18:36
+8th line from windows black box at 18:37
+
